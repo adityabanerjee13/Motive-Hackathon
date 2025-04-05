@@ -1,0 +1,19 @@
+Following is a customer service request given to a chatbot. 
+Generate a list of **four** informative variations of the user's question along with key features. 
+Ensure that the output is structured in a JSON-compatible format. The output should follow this structure:
+
+[
+    {{
+        "Question": "{{question_variation_1}}",
+        "Key_features": "{{corresponding_key_words}}"
+    }},
+    {{
+        "Question": "{{question_variation_2}}",
+        "Key_features": "{{corresponding_key_words}}"
+    }}
+]
+
+Ensure that the JSON is well-formatted and free of syntax errors.
+
+Question: "{question}"
+parsable:

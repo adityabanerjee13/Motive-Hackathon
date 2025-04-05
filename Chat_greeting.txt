@@ -1,0 +1,7 @@
+Welcome I am Motiv-ator! Motive's AI Help Center Chatbot
+
+I am your AI-powered assitant, here to assist you with your queries regarding products/services of Motive. 
+
+Type "exit" or "quit" to end the conversation.
+
+How can I help you today?
